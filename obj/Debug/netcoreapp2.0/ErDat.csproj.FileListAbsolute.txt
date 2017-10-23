@@ -1,0 +1,11 @@
+c:\users\thoma\source\repos\ErDat\ErDat\bin\Debug\netcoreapp2.0\ErDat.deps.json
+c:\users\thoma\source\repos\ErDat\ErDat\bin\Debug\netcoreapp2.0\ErDat.runtimeconfig.json
+c:\users\thoma\source\repos\ErDat\ErDat\bin\Debug\netcoreapp2.0\ErDat.runtimeconfig.dev.json
+c:\users\thoma\source\repos\ErDat\ErDat\bin\Debug\netcoreapp2.0\ErDat.dll
+c:\users\thoma\source\repos\ErDat\ErDat\obj\Debug\netcoreapp2.0\ErDat.csprojResolveAssemblyReference.cache
+c:\users\thoma\source\repos\ErDat\ErDat\obj\Debug\netcoreapp2.0\ErDat.csproj.CoreCompileInputs.cache
+c:\users\thoma\source\repos\ErDat\ErDat\obj\Debug\netcoreapp2.0\ErDat.AssemblyInfoInputs.cache
+c:\users\thoma\source\repos\ErDat\ErDat\obj\Debug\netcoreapp2.0\ErDat.AssemblyInfo.cs
+c:\users\thoma\source\repos\ErDat\ErDat\bin\Debug\netcoreapp2.0\ErDat.pdb
+c:\users\thoma\source\repos\ErDat\ErDat\obj\Debug\netcoreapp2.0\ErDat.dll
+c:\users\thoma\source\repos\ErDat\ErDat\obj\Debug\netcoreapp2.0\ErDat.pdb
